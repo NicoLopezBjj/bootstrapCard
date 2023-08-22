@@ -1,3 +1,3 @@
 # cardBootstrap
 
-Ejemplo de una card clasica hecha con html, css y Bootstrap.
+Trabajo de una card responsive clasica hecha con HTML, CSS y Bootstrap.
