@@ -1,3 +1,3 @@
 # cardBootstrap
 
-Ejemplo de un card clasica hecha con html, css y Bootstrap.
+Ejemplo de una card clasica hecha con html, css y Bootstrap.
