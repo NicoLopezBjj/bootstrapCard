@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+}
+
+
+.size{
+    font-size: small;
+}
+
+.small{
+    padding: 0 0.5rem !important;
+    font-size: 0.9rem !important;
+}
+
+.large{
+    font-size: x-large  !important;
+}
